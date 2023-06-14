@@ -1,0 +1,14 @@
+.body_div{
+    height: auto;
+}
+
+.bg{
+    width: 1850px;
+    height: 1850px;
+    background-size: cover;
+    background: linear-gradient(180deg, rgba(229, 229, 229, 0) 69.65%, rgba(196, 196, 196, 0) 100%);
+    left: 0%;
+    right: 0%;
+    top: 0%;
+    bottom: 68.5%;
+}
